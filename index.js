@@ -8,8 +8,8 @@ var AWSConfig;
 
 // OPTION 1: Configure AWS credentials through hard-coded key and secret
 //AWSConfig = {
-//     accessKeyId: 'AKIAIFCZTWW3Q4VVRC2Q',
-//     secretAccessKey: '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',
+//     accessKeyId: '',
+//     secretAccessKey: '',
 //     sessionToken: '',
      //region: 'eu-west-2'
      //region: ['eu-west-2','us-east-1']
